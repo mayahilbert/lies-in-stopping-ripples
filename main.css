@@ -921,8 +921,8 @@ img {
 /* Fading animation */
 .fade {
     animation-name: fade;
-    animation-duration: 1s;
-    animation-timing-function: ease-in-out;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in;
 }
 
 .center {
